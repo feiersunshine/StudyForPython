@@ -1,3 +1,3 @@
-# /Users/ap/Documents/code/StudyForPython
-def main():
-    print("Hello")
+#!/usr/bin/python3
+print("Hello, World!")
+print("My name is %s " % "zhangsan")
